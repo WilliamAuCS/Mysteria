@@ -1,3 +1,5 @@
 ##Created by William Au##
 
-This is a 2-D RPG game created using Unity Engine. 
+A 2-D RPG game in progress created using Unity Engine. 
+
+Unity version 2017.2.0f3
